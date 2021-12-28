@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">NecoApp</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="hello">Hello</string>
 </resources>

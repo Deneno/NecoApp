@@ -14,3 +14,6 @@ dependencyResolutionManagement {
 }
 rootProject.name = "NecoApp"
 include ':app'
+include ':necoapp2'
+include ':necoapp3'
+include ':necoapp4'
